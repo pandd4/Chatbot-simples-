@@ -5,7 +5,6 @@ Um chatbot simples desenvolvido com **HTML, CSS e JavaScript**, capaz de respond
 ## 📌 **Funcionalidades**
 ✅ Interface de chat estilizada em **azul e branco**.  
 ✅ Respostas automáticas para perguntas comuns.  
-✅ **Busca no Google** para obter informações sobre **clima, hora e signos**.  
 ✅ **Rolagem automática** para a última mensagem.  
 
 ## 📂 **Estrutura do Projeto**
